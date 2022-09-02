@@ -29,7 +29,7 @@ The main idea of this project is to classify people into their Myers-Briggs Type
 
 ## The MBTI
 
-![MBTI TYPES]([A-chart-with-descriptions-of-each-Myers-Briggs-personality-type-24.ppm])
+![MBTI TYPES]/A-chart-with-descriptions-of-each-Myers-Briggs-personality-type-24.ppm
 
 
 
