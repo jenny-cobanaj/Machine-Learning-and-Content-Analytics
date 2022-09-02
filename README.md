@@ -29,7 +29,6 @@ The main idea of this project is to classify people into their Myers-Briggs Type
 
 ## The MBTI
 
-![MBTI TYPES]/A-chart-with-descriptions-of-each-Myers-Briggs-personality-type-24.ppm
-
+![MBTI TYPES]/https://github.com/jenny-cobanaj/Machine-Learning-and-Content-Analytics/blob/3a9a1cce2032ee7807274fad4a87cf4cfcb21fd8/A-chart-with-descriptions-of-each-Myers-Briggs-personality-type-24.ppm
 
 
