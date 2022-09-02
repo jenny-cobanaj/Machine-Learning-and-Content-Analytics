@@ -1,1 +1,1 @@
-# Machine-Learning-and-Content-Analytics
+# MBTI Personality Prediction Project
