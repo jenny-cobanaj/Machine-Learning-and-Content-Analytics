@@ -29,7 +29,7 @@ The main idea of this project is to classify people into their Myers-Briggs Type
 
 ## The MBTI
 
-![MBTI TYPES]([https://myoctocat.com/assets/images/base-octocat.svg](https://www.researchgate.net/figure/A-chart-with-descriptions-of-each-Myers-Briggs-personality-type-24_fig1_358145283))
+![MBTI TYPES]([A-chart-with-descriptions-of-each-Myers-Briggs-personality-type-24.ppm])
 
 
 
