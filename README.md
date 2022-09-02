@@ -2,10 +2,17 @@
 
 
 ## Table of contents
-*Introduction
-*Our vision
-*The MBTI
-*Data
-*Methodology
-*Conclusion
-*Notebooks
+
+* Introduction
+
+* Our vision
+
+* The MBTI
+
+* Data
+
+* Methodology
+
+* Conclusion
+
+* Notebooks
