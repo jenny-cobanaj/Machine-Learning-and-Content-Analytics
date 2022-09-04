@@ -53,6 +53,24 @@ To find the best classifier in order to predict an individual’s personality ty
 We will create a function for producing four binary target variables (4 dichotomies for the 16 different personality types), transforming the task from multiclass to multilabel. In the multilabel problem, each label represents a different classification task and in contrast with the multiclass problem, the tasks are not mutually exclusive. Thus, we will create four new columns named “Extraversion”, “Sensing”, “Thinking”, “Judging” in which, the existence of a dichotomy will be represented by “1” while the non-existence from “0”. Thus, for each column we have the first one for Extraversion (E), /Introversion (I), the second category for Sensing (S) /Intuition (N), the third for Thinking (T)/Feeling (F) and the fourth category for Judging (J)/Perceiving (P). For example, if a person has MBTI ESFJ will be represented as 1,1,0,1 in the four columns respectively. In Figure 10 we can observe the final shape of the dataset until this time.
 
 
+
 ## Conclusion
 
 In conclusion, this project provides a solution for predicting personality, utilizing social network data with machine learning and deep learning algorithms that we applied. Beginning with the data preprocessing, we applied multiple tasks to convert the texts in a way that will hold meaningful information and in order to be treated equally, applying lowercase transformation, removing non-words, punctuations, the 4-letter code of MBTI etc. In advance, we proceeded on transforming the problem from multilabel to multiclass and on combining a custom stop word vocabulary with the NLTK package English stop words, in order to be used on the tokenization and stemming process. Then, we segregated the data for training and testing and implemented a series of Machine and Deep Learning algorithms to obtain the best accuracy results. From this project, we resulted on the Transformers model ‘DistilBert’ as the one which had the highest accuracy score in comparison to the rest, for predicting personality based on the “MBTI” personality indicator.
+
+
+
+## Notebooks
+
+* [EDA & Cleaning](1.EDA_Data_Cleaning.ipynb)
+* [Logistic Regression & XGBoost](2.Traditional_ML_Approach.ipynb)
+* [Recurrent Neural Networks](3.RNN_Models.ipynb)
+* [Myltilayer Perceptron Networks](4.MLP_Models.ipynb)
+* [Convolutional Neural Networks](5.CNN_Models.ipynb)
+* [Transformers model](6.Transformers_Fine_Tuning.ipynb)
+
+
+
+## Authors
+
+[Dimitris Papageorgiou](https://github.com/jimpap1997)
