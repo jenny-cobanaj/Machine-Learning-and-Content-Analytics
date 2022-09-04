@@ -73,7 +73,7 @@ In conclusion, this project provides a solution for predicting personality, util
 
 ## Authors
 
-* Nikos Matzakos
+* [Nikolaos Matzakos](https://github.com/NikolasMatz)
 
 * [Dimitris Papageorgiou](https://github.com/jimpap1997)
 
